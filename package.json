@@ -1,0 +1,12 @@
+{
+  "name": "crypto-market-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "decimal.js": "^10.4.3"
+  }
+}
